@@ -1,6 +1,6 @@
 Tie Bundy v0.1
 --------------
-Written by: Shawn Highfield (shighfield@gmail.com)
+Written by: Shawn Highfield 
 http://www.tinysbbs.com
 
 What is it?
@@ -21,6 +21,6 @@ You can fix it yourself as the pascal source is included and it's probably
 the smallest simplest program you can find.  Took me aprox 3 minutes to
 write. :)
 
-Or you can contact me at the gmail address above.
+
 
 May 28 2013 Shawn Highfield
